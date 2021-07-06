@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    
 }
 .half-width{
     width:50% ;
@@ -29,4 +30,8 @@ section{
 }
 .top-banner{
     background-image: url(images/shapes/Frame\ 59.jpg);
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+   margin: 0px;
 }
