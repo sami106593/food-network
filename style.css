@@ -35,3 +35,41 @@ section{
     background-image: url(images/shapes/7.png);
    margin: 0px;
 }
+.about-me h2{
+    color: rgb(97, 97, 97);
+}
+.pagol h2{
+    color: rgb(97, 97, 97);
+    text-align: center;
+}
+.pagol h3{
+    text-align:center;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: rgb(54, 53, 53);
+}
+.chagol img{
+ width: 40%;
+ padding-left: 10px;
+}
+.chagol img{
+    display: flex;
+   padding-left: 10px;
+}
+.item{
+    box-shadow: 10px 10px 5px gray;
+    width:50%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+footer h2{
+    text-align: center;
+    color: orange;
+}
+footer h3{
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: rgb(44, 43, 43);
+}
